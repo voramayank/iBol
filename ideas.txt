@@ -9,5 +9,7 @@ User Friendly and Flat UI design
 Basic Social networking Features such as CHAT/SHARING/APPS for interests
 
 IDEA# 2
-IDEA TITLE :: 
+IDEA TITLE :: Favourites
 IDEA DESCRIPTION ::
+User will be able to add other users,apps,communities.
+User will always get updates about his/her favourites.
