@@ -1,0 +1,8 @@
+//Below are the sites or tutorial which we can refer.
+
+SITE 1 :: Sample Chat application using PHP.
+URL :: http://www.script-tutorials.com/how-to-easily-make-a-php-chat-application/
+
+SITE 2 :: HTML 5, CSS 3 Online Editors
+URL :: http://rendera.heroku.com/
+
