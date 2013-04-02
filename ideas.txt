@@ -13,3 +13,8 @@ IDEA TITLE :: Favourites
 IDEA DESCRIPTION ::
 User will be able to add other users,apps,communities.
 User will always get updates about his/her favourites.
+
+IDEA# 3
+IDEA TITLE :: Place Information  
+IDEA DESCRIPTION :: User will select some places and website will show all the information of that place 
+and latest happenings at that place.
