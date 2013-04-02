@@ -1,0 +1,13 @@
+// This file contains ideas and their descriptions if any
+// This is not the final feature list but raw ideas accumulated over the period of time
+// Feel free to write / share your idea in the format mentioned.
+
+IDEA# 1
+IDEA TITLE :: Very Minimal and Simple UI with Chat/Sharing/StatusUpdate/Search Functionality
+IDEA DESCRIPTION ::
+User Friendly and Flat UI design
+Basic Social networking Features such as CHAT/SHARING/APPS for interests
+
+IDEA# 2
+IDEA TITLE :: 
+IDEA DESCRIPTION ::
